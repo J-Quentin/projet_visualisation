@@ -1,2 +1,2 @@
-console.log(d3.version);
+document.write(d3.version);
 
