@@ -20,4 +20,4 @@ canevas.selectAll("circle")
         .attr("cx",(d => d))
         .attr("cy",300)
         .attr("r",d => d)
-        .style("opacity", 0,5);
+        .style("opacity", 0.5);
